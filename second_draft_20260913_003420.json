@@ -1,0 +1,351 @@
+{
+  "timestamp": "20260913_003420",
+  "cast_names": [
+    "Ralph",
+    "Charleen",
+    "Johnny",
+    "Canman",
+    "Gary",
+    "Jonathan",
+    "Jean Luc",
+    "Bastien",
+    "Yeahno",
+    "The Village Elder",
+    "The Amazon Queens",
+    "The Bad Bitch",
+    "Diana",
+    "The Shamaness",
+    "The Disheveled Scientist",
+    "Sarah",
+    "The Zombie Catwalk Model",
+    "The Monegasque Middlemen"
+  ],
+  "hits_source": "fallback:chunked_source",
+  "drafts": [
+    {
+      "title": "Ralph and His Legacy",
+      "reasoning": "The source involves Ralph and his business dealings. The unnamed narrator is discussing a past event involving a powerful agent passing on a new girl, Gisele Bündchen, to Ralph. This involves a moral choice and a business transaction. The dramatic conflict centers around the tension between Ralph's pragmatic business interests and the legacy or cultural footprint of Gisele. The setting is an office environment where Ralph is negotiating with Bastiern.",
+      "scene": "The office is spacious and luxurious, with high-end designer clothing and accessories lining the walls. Ralph sits back in his leather chair, sipping a glass of wine, while Bastiern stands over him, arguing for their twenty percent cut of Gisele's legacy. The air is thick with the tension of business and betrayal.",
+      "dialogue": [
+        {
+          "character": "Bastien",
+          "line": "Twenty percent, Ralph. That's our cut.",
+          "cast_type": "canonical",
+          "raw_name": "BASTIEN",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "It's a great story, truly. But you're selling me on a legacy. On a 'cultural footprint.' I'm in the opening weekend business. I don't give a damn if anyone remembers.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "Bastien",
+          "line": "We're in this for the long haul, Ralph. Gisele is the brand, and we're the ones who will profit from it.",
+          "cast_type": "canonical",
+          "raw_name": "BASTIEN",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 1,
+      "source_file": "chunk_01",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 3,
+      "speakers": [
+        "Bastien",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Burning Hut and The Chainsaw",
+      "reasoning": "The source involves Charlene and YeahNo, with the dramatic conflict being Charlene's rage and YeahNo's grotesque act. The setting is a burning hut in a jungle, which fits the source's description. The scene will depict Charlene's rage and YeahNo's violent act, contrasting the light and chaotic background.",
+      "scene": "Amidst the smoldering wreckage of a hut in a dense jungle, thick smoke curls around the scene. The background is a mix of dark green foliage and flickering flames, casting long, ominous shadows. Charlene, her face twisted in a mix of rage and determination, stands on a pile of charred wood. Behind her, YeahNo stands triumphantly, his face contorted into a grotesque grin as he holds a chainsaw, gleaming in the dim light. The jungle is quiet, save for the crackling of the fire and Charlene's heavy breathing.",
+      "dialogue": [
+        {
+          "character": "Charleen",
+          "line": "He won't get away with this.",
+          "cast_type": "canonical",
+          "raw_name": "Charlene",
+          "match_score": 0.88
+        },
+        {
+          "character": "Yeahno",
+          "line": "Oh, he won't. He's already done more than enough.",
+          "cast_type": "canonical",
+          "raw_name": "YeahNo",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 2,
+      "source_file": "chunk_02",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "Charleen",
+        "Yeahno"
+      ]
+    },
+    {
+      "title": "The Night of the Hut",
+      "reasoning": "The 'I' in the source is an unnamed narrator. This chunk involves Charleen and Yeahno, referencing their hut and the tense atmosphere. The dramatic conflict is the fear and impending violence. The setting fits an establishing shot of the hut at night, with tension building between the characters.",
+      "scene": "The interior of Charleen and Yeahno's hut at night is dimly lit by a flickering cooking fire. The air is thick with tension as Charleen stands frozen by the fire, her eyes wide with fear. Yeahno sits nearby, sharpening his machete, his gaze fixed on her with a sinister smile.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "The air is thick with tension.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "Charleen",
+          "line": "Please, Yeahno, let’s not do this.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLEEN",
+          "match_score": 1.0
+        },
+        {
+          "character": "Yeahno",
+          "line": "Oh, Charleen, it’s just a small...",
+          "cast_type": "canonical",
+          "raw_name": "YAHTNO",
+          "match_score": 0.83
+        },
+        {
+          "character": "Charleen",
+          "line": "No, stop! Please, no.",
+          "cast_type": "canonical",
+          "raw_name": "CHARLEEN",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 3,
+      "source_file": "chunk_03",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "Charleen",
+        "NARRATOR",
+        "Yeahno"
+      ]
+    },
+    {
+      "title": "Scene 2: The Deal",
+      "reasoning": "The 'I' in the source is an unnamed narrator, likely a former employee or insider. This chunk involves Ralph, who is referenced, and focuses on a deal or transaction. The dramatic conflict centers around Ralph's continued success and the implicit opposition to his actions. The setting fits a corporate environment or a meeting room, given the references to financial tools and named individuals like Cheryl Sandberg and Zuckerberg.",
+      "scene": "The sun casts a warm glow through the windows of a high-end conference room. The air is thick with the scent of coffee and the hum of technology. Ralph sits in a plush executive chair, his fingers tapping on the armrest, a look of satisfied smugness on his face. The walls are adorned with modern art, and the room is filled with advanced technological equipment, including a large screen showing real-time financial data.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "Let's make a deal, NARRATOR. You did it again.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "It's always about the next big thing, isn't it? The AI tool still draws funny pictures when asked for linguistic connections.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "Ralph",
+          "line": "Fixed income arrived like clockwork. I helped, remember?",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Cheryl Sandberg, Zuckerberg, the whole crew—they wanted slaves while they leaned in from islands. This land was sacred, but not for them.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 4,
+      "source_file": "chunk_04",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "NARRATOR",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Sharpening Blade",
+      "reasoning": "The source involves Ralph sharpening his machete, creating a tense and foreboding setting. The setting is a hut at night, and the dramatic conflict is between Ralph and Charleen, with the machete serving as a symbol of impending violence and control. The source does not explicitly name the narrator, so I will use NARRATOR.",
+      "scene": "The hut is dimly lit by the flickering fire, casting eerie shadows on the walls. Outside, the night air is thick with silence, broken only by the rhythmic shink-shink-shink of Ralph's machete being sharpened on the whetstone. Charleen, huddled by the cooking fire, is visibly trembling, her eyes fixed on Ralph's gleaming blade. The smell of burnt squirrel meat lingers in the air, adding to the oppressive atmosphere.",
+      "dialogue": [
+        {
+          "character": "NARRATOR",
+          "line": "Ralph, with a cruel smile, stands over Charleen as she cowers by the cooking fire, her eyes fixed on the gleaming machete in his hand.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        },
+        {
+          "character": "NARRATOR",
+          "line": "The rhythmic shink-shink sound of sharpening intensifies their tension, the smell of burnt meat hanging heavy in the air.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 5,
+      "source_file": "chunk_05",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "NARRATOR"
+      ]
+    },
+    {
+      "title": "The Arrival of Models",
+      "reasoning": "The 'I' in the source is unnamed, likely a narrator. This chunk involves Ralph and introduces new models, which likely conflicts with the established dynamics. The setting is a cargo ship hold, where Ralph discusses the models with Gary.",
+      "scene": "INT. CARGO SHIP HALL - NIGHT\nThe hold is dimly lit, with the heavy machinery and cargo crates casting shadows. Ralph, impeccably dressed in a pinstripe suit, stands over a disheveled Xylia, who clutches her torn and dirty clothes. Gary, a sullen man in a plain suit, stands nearby, his gaze wandering between Ralph and Xylia. The air is thick with tension, the scent of salt and sweat mingling with the damp air.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "You did it again, Xylia. You're a low cost, high reward find.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "Gary",
+          "line": "Yeah, but she's barely holding together. This isn't going to last.",
+          "cast_type": "canonical",
+          "raw_name": "GARY",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "She's young, Gary. She'll get into the swing of things. Besides, it's about the numbers. She's a smart investment.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "Ralph's voice is a mixture of condescension and calculation, his eyes scanning Xylia with a predatory gaze.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 6,
+      "source_file": "chunk_06",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 4,
+      "speakers": [
+        "Gary",
+        "NARRATOR",
+        "Ralph"
+      ]
+    },
+    {
+      "title": "The Harvest: A Village Standoff",
+      "reasoning": "The source involves Ralph and the setting is a village where the conflict is between Ralph's corporate interests and the villagers' resistance. The dramatic conflict is the confrontation between Ralph and the village elder, highlighting the clash of corporate pragmatism and indigenous spirituality.",
+      "scene": "The setting is a rustic village square under a starlit sky, the air thick with tension. Villagers stand in a semi-circle around Ralph and the village elder, their faces grave and determined. Firelight flickers from makeshift torches, casting long shadows on the ground. The village elder steps forward, his voice grave and resolute.",
+      "dialogue": [
+        {
+          "character": "The Village Elder",
+          "line": "You have brought ruin upon us, Ralph.",
+          "cast_type": "canonical",
+          "raw_name": "The Village Elder",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Your village is a hindrance, Elder. We must continue our operations.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "Our ancestors protect us. You cannot force your will upon us.",
+          "cast_type": "canonical",
+          "raw_name": "The Village Elder",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "Force? You underestimate me, Elder. The force of ambition and greed is unstoppable.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "We are not afraid of your force. We are the guardians of sacred ground. You will leave us alone.",
+          "cast_type": "canonical",
+          "raw_name": "The Village Elder",
+          "match_score": 1.0
+        },
+        {
+          "character": "Ralph",
+          "line": "We will not be deterred. We will make you comply with our terms.",
+          "cast_type": "canonical",
+          "raw_name": "Ralph",
+          "match_score": 1.0
+        },
+        {
+          "character": "The Village Elder",
+          "line": "Then we will fight to the end, Ralph. Our way of life is worth defending.",
+          "cast_type": "canonical",
+          "raw_name": "The Village Elder",
+          "match_score": 1.0
+        }
+      ],
+      "rank": 7,
+      "source_file": "chunk_07",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 7,
+      "speakers": [
+        "Ralph",
+        "The Village Elder"
+      ]
+    },
+    {
+      "title": "The Corporate Toast",
+      "reasoning": "The source involves Ralph and describes a scene where he is in a celebratory yet tense pose, holding a crystal champagne flute. The setting is a corporate conference room, which is sterile and polished, contrasting with the unseen chaos outside. The dramatic conflict is Ralph's inner turmoil as he tries to maintain his composure and rally his team despite the impending failure of his business.",
+      "scene": "A corporate conference room is bathed in soft, sterile lighting with polished wood surfaces. Ralph stands at the front of the room, in a pyramidal power pose, holding a crystal champagne flute aloft in a celebratory toast. The room is empty, save for a projector screen showing slides of his failing business. Ralph's smooth exterior is barely holding together as he tries to rally his team with a forced grin.",
+      "dialogue": [
+        {
+          "character": "Ralph",
+          "line": "Ladies and gentlemen, let's raise a glass to the new beginning.",
+          "cast_type": "canonical",
+          "raw_name": "RALPH",
+          "match_score": 1.0
+        },
+        {
+          "character": "NARRATOR",
+          "line": "But the unseen chaos outside threatens to spill in, a stark contrast to the polished facade Ralph is trying to maintain.",
+          "cast_type": "narrator",
+          "raw_name": "NARRATOR",
+          "match_score": 0.46
+        }
+      ],
+      "rank": 8,
+      "source_file": "chunk_08",
+      "topics_hit": [],
+      "keywords_hit": [],
+      "dialogue_count": 2,
+      "speakers": [
+        "NARRATOR",
+        "Ralph"
+      ]
+    }
+  ]
+}
